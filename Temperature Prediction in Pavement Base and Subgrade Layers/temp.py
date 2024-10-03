@@ -16,7 +16,7 @@ def predict(temp_c, solar_rad, precip, day_of_year):
     return prediction[0]
 
 # Streamlit interface
-st.title("GBC Temperature Predictor")
+st.title("Temperature Prediction in Pavement Base and Subgrade Layers")
 
 st.write("Enter the following details:")
 
