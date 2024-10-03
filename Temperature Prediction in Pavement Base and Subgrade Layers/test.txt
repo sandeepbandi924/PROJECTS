@@ -1,2 +1,0 @@
-Predicted GBC Temperature (°C): 25.2463
-Predicted Subgrade Layer: Low
